@@ -1,5 +1,5 @@
 {
-    "navigationBarTitleText": "爱尔兰代购",
+    "navigationBarTitleText": "欧洲旅游",
     "usingComponents": {
         "i-grid": "../../../static/dist/grid/index",
         "i-grid-item": "../../../static/dist/grid-item/index",

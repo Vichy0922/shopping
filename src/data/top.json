@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"巴黎南法9日线路","address":"3月-9月","remark":"巴黎 → 阿维尼翁 → 普罗旺斯 → 尼斯 → 摩纳哥 → 尼斯 ","img":"/static/images/louvre.jpeg","type":1,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":2,"name":"伦敦温莎巴斯爱丁堡八日游","address":"5月-10月","remark":"伦敦 → 剑桥 → 伦敦 → 温莎 → 伦敦 → 巴斯 → 伦敦 → 比斯特 → 伦敦 → 爱丁堡 ","img":"/static/images/thames.jpeg","type":4,"latitude": 30.579604,"longitude": 114.338552},
+    {"id":3,"name":"童话恋歌瑞士11日经典线路","address":"7月-12月","remark":"卢塞恩 → 因特拉肯 → 劳特布龙嫩 → 施皮茨 → 蒙特勒 → 采尔马特 → 库尔 → 苏黎世的","img":"/static/images/charles.jpeg","type":3,"latitude": 30.573291,"longitude": 114.333172},
+    {"id":4,"name":"冰岛夏季深度9日自驾线路","address":"6月-9月","remark":"雷克雅未克 → 维克 → 霍芬 → 埃伊尔斯塔济 → 阿克雷里 → 斯奈菲尔半岛 → 格林达维克 → 雷克雅未克","img":"/static/images/halgrim.jpeg","type":3,"latitude": 30.575157,"longitude": 114.332303},
+    {"id":5,"name":"希腊爱琴海浪漫8日线路 ","address":"5月-9月","remark":"雅典 → 德尔斐 → 雅典 → 圣托里尼 → 雅典 → 扎金索斯 → 雅典","img":"/static/images/church.jpeg","type":5,"latitude": 30.579535,"longitude": 114.330876},
+    {"id":6,"name":"意大利经典4大城9小镇10日游","address":"全年","remark":"罗马 → 锡耶纳 → 圣吉米尼亚诺 → 佛罗伦萨 → 比萨 → 五渔村 → 佛罗伦萨 → 帕多瓦 → 威尼斯 → 维罗纳 → 米兰","img":"/static/images/colosseum.jpeg","type":4,"latitude": 30.579369,"longitude": 114.326992}
+]

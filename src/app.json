@@ -2,7 +2,7 @@
   "pages": [
     "pages/index/main",
     "pages/list/main",
-    "pages/cart/main",
+    "pages/map/main",
     "pages/mine/main"
   ],
   "window": {
@@ -20,18 +20,18 @@
     "list": [{
       "text": "首页",
       "pagePath": "pages/index/main",
-      "iconPath": "static/images/_home.png",
-      "selectedIconPath": "static/images/home.png"
+      "iconPath": "static/images/home.png",
+      "selectedIconPath": "static/images/_home.png"
     }, {
-      "text": "购物车",
-      "pagePath": "pages/cart/main",
-      "iconPath": "static/images/_cart.png",
-      "selectedIconPath": "static/images/cart.png"
+      "text": "地图",
+      "pagePath": "pages/map/main",
+      "iconPath": "static/images/map.png",
+      "selectedIconPath": "static/images/_map.png"
     }, {
       "text": "我的",
       "pagePath": "pages/mine/main",
-      "iconPath": "static/images/_mine.png",
-      "selectedIconPath": "static/images/mine.png"
+      "iconPath": "static/images/mine.png",
+      "selectedIconPath": "static/images/_mine.png"
     }],
 
     "items": [{
