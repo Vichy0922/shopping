@@ -50,8 +50,8 @@ export default {
       grids: [
         {type:'国家',img:'/static/images/fly.png',"url":'../list/main?type=5'},
         {type:'景点',img:'/static/images/spot.png',"url":'../list/main?type=6'},
-        {type:'美食',img:'/static/images/food.png',"url":'../list/main?type=3'},
-        {type:'游记',img:'/static/images/hint.png',"url":'../list/main?type=4'},
+        {type:'美食',img:'/static/images/food.png',"url":'../list/main?type=7'},
+        {type:'游记',img:'/static/images/hint.png',"url":'../list/main?type=8'},
        
       ],
       recommand: top
