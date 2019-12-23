@@ -11,7 +11,7 @@
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
 	"appid": "wx29ff6d600d94d87d",
-	"projectname": "shopping",
+	"projectname": "travel",
 	"libVersion": "2.6.6",
 	"condition": {
 		"search": {
